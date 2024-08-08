@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Christian Abbott
+
+I'm a senior computer science student at Grove City College and double majoring in piano.
 
 <!--
 **TitanChariotsBB/TitanChariotsBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
