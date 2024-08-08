@@ -1,6 +1,11 @@
-## Hi, I'm Christian Abbott
+## Hi, I'm Christian!
 
-I'm a senior computer science student at Grove City College and double majoring in piano.
+I'm a senior computer science student at Grove City College double majoring in piano. Why the odd combo? I enjoy programming, I love music, and I'm fascniated by music technology. In the future, I'd like to work in digital audio signal processing.
+
+### My Skills:
+
+Languages: Java (primary), C, Python, C#, Kotlin, C++, SQL, Bash, GNU Lilypond, HTML/CSS
+Tools/Platforms: Linux, Git, Agile/Scrum, Jetpack Compose, JavaFX, MongoDB, Docker, PostgreSQL, JUCE
 
 <!--
 **TitanChariotsBB/TitanChariotsBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
