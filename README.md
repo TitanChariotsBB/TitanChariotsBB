@@ -5,6 +5,7 @@ I'm a senior computer science student at Grove City College double majoring in p
 ### My Skills:
 
 Languages: Java (primary), C, Python, C#, Kotlin, C++, SQL, Bash, GNU Lilypond, HTML/CSS
+
 Tools/Platforms: Linux, Git, Agile/Scrum, Jetpack Compose, JavaFX, MongoDB, Docker, PostgreSQL, JUCE
 
 <!--
